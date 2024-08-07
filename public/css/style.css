@@ -1,0 +1,46 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+  }
+  
+  nav, footer {
+    background-color: #ffffff !important;
+    color: #000 !important;
+  }
+  
+  .nav-wrapper .brand-logo {
+    padding-left: 20px;
+    color: #000 !important;
+  }
+  
+  .nav-wrapper ul li a {
+    color: #000 !important;
+  }
+  
+  .main-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .main-content img {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .page-footer {
+    padding: 20px 0;
+  }
+  
+  .page-footer h5 {
+    color: #000 !important;
+  }
+  
+  .page-footer .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  

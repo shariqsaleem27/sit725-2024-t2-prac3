@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "sit725-2024-t2-prac3",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "shariq",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "sit725-2024-t2-prac3"
+  }
+}
